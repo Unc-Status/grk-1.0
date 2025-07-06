@@ -1,2 +1,2 @@
 # grk-1.0
-grk
+grk stands for graphic-runtime-kit
