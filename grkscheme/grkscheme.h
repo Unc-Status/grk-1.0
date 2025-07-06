@@ -1,7 +1,7 @@
 //grkscheme.h copyright ( c ) UncStatus++
 
-#ifndef GRK_H || GRK && GRK_SCHEME
-#define GRK_H || GRK && GRK_SCHEME
+#ifndef GRK_H && GRK && GRK_SCHEME
+#define GRK_H && GRK && GRK_SCHEME
 
 //scheme types
 #define GRK_SCHEME_LIGHT
