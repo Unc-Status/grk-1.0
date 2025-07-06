@@ -8,13 +8,13 @@
 #define GRK_SCHEME_DARK
 
 class GrkScheme{
-public :
+public:
  GrkScheme();
  virtual ~GrkScheme();
 
  //declare theme type
- int GrkSchemeType;
- int GrkSchemeFlags;
+ int GrkSchemeType = nullptr;
+ int GrkSchemeFlags = nullptr;
 
  //set
  bool GrkSchemeSet;
