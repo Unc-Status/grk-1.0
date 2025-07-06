@@ -17,7 +17,7 @@ public:
  int GrkSchemeFlags = nullptr;
 
  //set
- bool GrkSchemeSet;
+ bool GrkSchemeSet(GrkScheme * pScheme, int flags, int type);
 
 //end
 };
