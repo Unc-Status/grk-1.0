@@ -1,4 +1,5 @@
 //grkscheme.h copyright ( c ) UncStatus++
+//Praise The Lord
 
 #ifndef GRK_H && GRK && GRK_SCHEME
 #define GRK_H && GRK && GRK_SCHEME
