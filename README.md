@@ -12,7 +12,7 @@ grk has following types:
 grk uses C and C++, use a C or C++ compiler preferably g++
 
 # grk info
-grk copyright ( c ) UncStatus++ 2025
+grk-1.0 graphic-runtime-kit copyright ( c ) UncStatus++ 2025
 
 # Praise The Lord For All Code And Creativity And Everything
  
