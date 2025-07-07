@@ -6,6 +6,7 @@
 #define GRKFRAME_X
 #define GRKFRAME_Y
 
+//GrkFrame is the same as a Rectangle
 class GrkFrame{
 public:
  GrkFrame();
